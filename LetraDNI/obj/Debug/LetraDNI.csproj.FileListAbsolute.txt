@@ -1,0 +1,9 @@
+C:\Users\eloyguimun\source\repos\LetraDNI\bin\Debug\LetraDNI.exe.config
+C:\Users\eloyguimun\source\repos\LetraDNI\bin\Debug\LetraDNI.exe
+C:\Users\eloyguimun\source\repos\LetraDNI\bin\Debug\LetraDNI.pdb
+C:\Users\eloyguimun\source\repos\LetraDNI\obj\Debug\LetraDNI.csprojAssemblyReference.cache
+C:\Users\eloyguimun\source\repos\LetraDNI\obj\Debug\LetraDNI.Form1.resources
+C:\Users\eloyguimun\source\repos\LetraDNI\obj\Debug\LetraDNI.Properties.Resources.resources
+C:\Users\eloyguimun\source\repos\LetraDNI\obj\Debug\LetraDNI.csproj.GenerateResource.cache
+C:\Users\eloyguimun\source\repos\LetraDNI\obj\Debug\LetraDNI.exe
+C:\Users\eloyguimun\source\repos\LetraDNI\obj\Debug\LetraDNI.pdb
